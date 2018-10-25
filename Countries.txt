@@ -1,0 +1,4 @@
+India:1339
+Canada:36.71
+USA:309.3
+Australia:24.6
